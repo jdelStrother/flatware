@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
             )
   s.homepage = 'http://github.com/briandunn/flatware'
   s.licenses = ['MIT']
-  s.required_ruby_version = ['>= 2.6', '< 4.1']
+  s.required_ruby_version = ['>= 3.2', '< 4.1']
   s.require_paths = ['lib']
   s.add_dependency %(cucumber), '>= 10.0'
   s.add_dependency %(flatware), Flatware::VERSION
