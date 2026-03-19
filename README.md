@@ -1,7 +1,4 @@
-# Flatware [![Code Climate][code-climate-badge]][code-climate]
-
-[code-climate-badge]: https://codeclimate.com/github/briandunn/flatware.svg
-[code-climate]: https://codeclimate.com/github/briandunn/flatware
+# Flatware
 
 Flatware parallelizes your test suite to significantly reduce test time.
 
